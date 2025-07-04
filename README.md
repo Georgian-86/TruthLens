@@ -131,8 +131,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or support, please reach out:
 
 - **Email:** optimus4586prime@gmail.comm
-- **GitHub:** [Your GitHub Profile Link]
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Discord/WhatsApp:** [Link to your communication channel]
+- **GitHub:** https://github.com/Georgian-86
+- **LinkedIn:** https://www.linkedin.com/in/golukumar15/
 
 ---
